@@ -84,3 +84,7 @@ AI Data Science Calculator/
 ├── student_data.csv
 ├── README.md
 └── student_data_export.csv
+## Project screenshot
+![AI & Data Science Toolkit]
+(toolkit=Screenshot1.png)
+(toolkit-Screenshot2.png)
